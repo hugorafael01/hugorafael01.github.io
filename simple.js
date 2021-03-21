@@ -1,2 +1,2 @@
-var myVariable;
-myVariable = "Olá";
+var name = prompt("Qual o seu nome?");
+alert("Olá, "+ name);
